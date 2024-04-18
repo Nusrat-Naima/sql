@@ -37,3 +37,5 @@ select * from user_sequences;
 select * from all_sequences;
 
 SELECT * FROM student;
+ROLLBACK;
+COMMIT;
